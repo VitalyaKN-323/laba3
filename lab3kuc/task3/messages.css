@@ -1,0 +1,85 @@
+.server-messages {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+    font-family: Arial, sans-serif;
+}
+
+.server-messages thead {
+    background-color: #8935f8e8;
+    color: #ffffff;
+}
+
+div {
+    color: #a3a3a3;
+}
+
+.server-messages .p {
+    background-color: #f9f9f9;
+}
+
+.server-messages .np {
+    background-color: #ffffff;
+}
+
+.server-messages th {
+    padding: 10px;
+    border: 1px solid #c0c0c000;
+}
+
+.server-messages td {
+    padding: 10px;
+    border: 1px solid #c0c0c000;
+}
+
+.server-messages tr:hover {
+    background-color: #6d46b4;
+}
+
+.server-messages .priority {
+    display: inline-block;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    border-radius: 50%;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    margin-left: 50px;
+}
+
+.server-messages .priority-1 {
+    background-color: #cb4ca1;
+}
+
+.server-messages .priority-2 {
+    background-color: #ffe604;
+}
+
+.server-messages .priority-3 {
+    background-color: #4cc3cb;
+}
+
+.server-messages .priority-4 {
+    background-color: #76f80b;
+}
+
+.server-messages .priority-5 {
+    background-color: #000000;
+}
+
+/*.size {
+    display: inline-block;
+    border-radius: 10px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px;
+    background-color: #3a58c6;
+}*/
+
+
+
+
+
